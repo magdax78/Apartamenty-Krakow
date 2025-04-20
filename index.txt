@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apartamenty Kraków</title>
+</head>
+<body>
+    <header>
+        <h1>Witamy w naszych Apartamentach w Krakowie</h1>
+        <p>W pełni wyposażone, komfortowe apartamenty na wynajem krótkoterminowy</p>
+    </header>
+    
+    <section>
+        <h2>Apartamenty Premium</h2>
+        <p>Nasze apartamenty są w pełni wyposażone i idealne na pobyt w Krakowie. Każdy apartament posiada łazienkę, aneks kuchenny, wygodne łóżka i klimatyczny wystrój.</p>
+        <p>Apartament w Podgórzu ma widok na Plac Bohaterów Getta, a apartament w Kazimierzu na Synagogę Deichesa.</p>
+        <p>Max 2 osoby w każdym apartamencie.</p>
+    </section>
+    
+    <section>
+        <h2>Galeria</h2>
+        <img src="https://www.example.com/apartament-podgorze.jpg" alt="Apartament w Podgórzu" width="100%">
+        <img src="https://www.example.com/apartament-kazimierz.jpg" alt="Apartament na Kazimierzu" width="100%">
+    </section>
+
+    <section>
+        <h2>Lokalizacja</h2>
+        <p>Apartament Podgórze: Plac Bohaterów Getta 17/2, Kraków</p>
+        <p>Apartament Kazimierz: Brzozowa 8/16, Kraków</p>
+    </section>
+
+    <section>
+        <h2>Kontakt</h2>
+        <p>Telefon: 519 401 708</p>
+        <p>Email: magda_f@poczta.fm</p>
+    </section>
+
+    <footer>
+        <p>Zakaz palenia w apartamentach. Zameldowanie od godz. 15:00, wymeldowanie do godz. 10:00.</p>
+    </footer>
+</body>
+</html>
